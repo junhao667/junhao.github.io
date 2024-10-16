@@ -8,5 +8,5 @@ redirect_from:
 ---
 I'm a third year undergraduate student from [School of Information and Communication Engineering](https://www.sice.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interest includes computer vision, machine learning, Multimodal Large Language Models.
 
-[Email](202422010142@stu.uestc.edu.cn) 
+Email: [junhaochen212@gmail.com]
                         
